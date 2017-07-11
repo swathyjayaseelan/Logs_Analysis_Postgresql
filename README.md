@@ -16,7 +16,7 @@ Tables:
 
 ## Installation
 1. Install Vagrant and VM
-2. Download [fullstack-nanodegree-vm](https://github.com/udacity/fullstack-nanodegree-vm)
+2. Download [fullstack-nanodegree-vm]( https://github.com/udacity/fullstack-nanodegree-vm)
 3. Download [data](https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip) from here. Unzip and get the newsdata.sql file and place it inside the vagrant directoy
 4. Fork this repository or download this project and put the file "logsanalysis.py" inside the vagrant folder along with newsdata.sql
 
